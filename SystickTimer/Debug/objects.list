@@ -1,0 +1,6 @@
+"./Src/RCFilter.o"
+"./Src/TimeFunctions.o"
+"./Src/adc.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
