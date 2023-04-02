@@ -2,7 +2,7 @@
  * tim.h
  *
  *  Created on: Mar 31, 2023
- *      Author: Hp
+ *      Author: Habib Ur Rahman
  */
 
 #ifndef TIM_H_
